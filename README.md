@@ -1,5 +1,2 @@
 # sorcerersarena
-This is our first game!
-It's still in alpha, but you can play it.
-Why are you still reading this?
-Get it from our website.
+Early game that never made it past alpha. Download it from faultyorbit.github.io if you want.
